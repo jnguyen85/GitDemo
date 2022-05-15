@@ -8,14 +8,14 @@ public class AppiumTest {
 	{
 		System.out.println("NativeAPpAndroid");
 		
-		System.out.println("NativeAPpAndroid");
+		System.out.println("05/15/2002 NativeAPpAndroid");
 	}
 	@Test
 	public void NativeAPpAndroidS()
 	{
 		System.out.println("NativeAPpAndroid");
 		
-		System.out.println("NativeAPpAndroid");
+		System.out.println("05/15/2002 NativeAPpAndroid");
 	}
 	
 	@Test

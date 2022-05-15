@@ -25,7 +25,7 @@ public class RESTAPITest {
 
 	@Test
 	public void deleteTwitter12() {
-		System.out.println("deleteTwddtter");
+		System.out.println("05/15/2002  deleteTwddtter");
 
 	}
 }

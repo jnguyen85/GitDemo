@@ -26,7 +26,7 @@ public class SeleniumTest {
 	@Test
 	public void elementsU1ssi()
 	{
-		System.out.println("elementfdsUi");	
+		System.out.println("05/15/2002  elementfdsUi");	
 	}
 	
 	
